@@ -8,8 +8,7 @@ Susana Alvarez:
 -Notebook name is Untitled (yes, this was on purpose). 
 -Data: green_spaces.csv https://data.wprdc.org/dataset/operations-green-spaces/resource/5cf7163b-f76c-47ef-b48d-a16366ac1835?inner_span=True 
 
-
-This data examines all the different green spaces that are provided here in Pittsburgh and compares what each green space in each neighborhood has to offer. Along with showing data that covers the total space/acreage of the greenspace, population, and representation. This connects to our metric by searching for the best parks and recreational spaces in neighborhoods. In my data, I compare more outside of these greenspaces by noticing what makes up these green space neighborhoods. 
+This data examines all the different green spaces that are provided here in Pittsburgh and compares what each green space in each neighborhood has to offer. Along with showing data that covers the total space/acreage of the greenspace, population, and representation. I wanted to emphasize how this correlates with finding the best neighborhood through these data entries. And I found that this connects to our metric by searching for the best parks and recreational spaces in neighborhoods. By reassuring that a neighborhood fits a certain liveable standard. In my data, I compare more outside of these green spaces by noticing what makes up these green space neighborhoods since we know a green space is already offered. 
 
 Kshama Kolur:
 Email: ksk60@pitt.edu
