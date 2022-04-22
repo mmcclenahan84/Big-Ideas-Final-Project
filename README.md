@@ -1,7 +1,7 @@
 # Big-Ideas-Final-Project
 Team Name: Huggable Kittens 
 
-Team Memebers: 
+Team Members: 
 
 Susana Alvarez: 
 -Email: Sua32@pitt.edu
