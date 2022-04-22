@@ -1,6 +1,8 @@
 # Big-Ideas-Final-Project
 Team Name: Huggable Kittens 
 
+This repository will analyze various datasets and determine which neighborhood in Pittsburgh which contain the best parks and recreational facilites. The datasets we observed and interpreted can be found along with our team members can be found below:
+
 Team Members: 
 
 Susana Alvarez: 
